@@ -2,8 +2,6 @@
 
 Teknoloji, programlama, kişisel gelişim, film yapımı ve daha birçok farklı konuyu ele alan YouTube kanallarından oluşan bir koleksiyon. Her bir kanalın bağlantısı ve sundukları içerik hakkında kısa bir açıklama bulunuyor.
 
----
-
 ## Kanal Listesi
 
 ### 1. <a href="https://www.youtube.com/@CanDeger" target="_blank">Can Deger</a>
